@@ -1,3 +1,12 @@
+**PowerAudio fork of Sorcer**
+
+This fork of Sorcer currently has no changes. The following changes have since
+been merged upstream:
+
+* Fixed build files to ensure SSE flags aren’t used on non-x86 architectures.
+
+---
+
 Sorcer - OpenAV Productions
 ===========================
 
